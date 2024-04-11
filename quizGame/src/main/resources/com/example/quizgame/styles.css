@@ -1,0 +1,21 @@
+/* Target all buttons */
+.button {
+background-color:#b3ffb3;
+font: 15px Arial, sans-serif;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+}
+
+/* Target a specific button by its ID */
+#nextButton {
+background-color:#b3ffb3;
+font: 15px Arial, sans-serif;
+}
+/* Target the root container */
+.root {
+background-color:#00ff00;
+
+}
